@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Wren Vogelschmidt!
+
+:school: I go to Colgate University in Hamilton, NY</br>
+:books: I study Computer Science and History</br>
+:computer: I like using Python, Java, and PostgreSQL</br>
+:musical_score: In my free time I sing in The Colgate Thirteen</br>
+
+
+
 <!--
 **wren-v/wren-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
